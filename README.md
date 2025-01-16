@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Brinda Sorathiya</h1>
 <h3 align="center">An eager newbie fascinated by current AI trends.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brinda-sorathiya&label=Profile%20views&color=0e75b6&style=flat" alt="brinda-sorathiya" /> </p>
-
 - 🌱 I’m currently learning **NLP and associated python libraries**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -14,4 +11,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brinda-sorathiya&show_icons=true&locale=en&layout=compact" alt="brinda-sorathiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brinda-sorathiya&" alt="brinda-sorathiya" /></p>
